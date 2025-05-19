@@ -18,8 +18,3 @@ Masteroppgaven bygger blant annet på RTV-datasettet (Right-Wing Terrorism and V
 ## Formål
 
 Formålet med dette repoet er å samle og dele arbeidet knyttet til databehandling og analyse i masteroppgaven min, som undersøker geografiske mønstre i høyreekstrem vold i Skandinavia.
-
-## Kontakt
-
-📧 pcolafsen@gmail.com
-📍 Universitetet i Oslo  
