@@ -8,11 +8,18 @@ Dette repositoriet inneholder R-skript brukt i analysene til min masteroppgave v
 - Kode relatert til geografiske analyser og kartdata
 - Dokumentasjon og notater knyttet til prosjektet
 
+## Datagrunnlag
+
+Masteroppgaven bygger blant annet på RTV-datasettet (Right-Wing Terrorism and Violence), som er tilgjengelig for nedlasting via C-REX:
+
+🔗 [https://www.sv.uio.no/c-rex/english/groups/rtv-dataset/](https://www.sv.uio.no/c-rex/english/groups/rtv-dataset/)
+
+
 ## Formål
 
 Formålet med dette repoet er å samle og dele arbeidet knyttet til databehandling og analyse i masteroppgaven min, som undersøker geografiske mønstre i høyreekstrem vold i Skandinavia.
 
 ## Kontakt
 
-📧 Celine Olafsen  
+📧 pcolafsen@gmail.com
 📍 Universitetet i Oslo  
